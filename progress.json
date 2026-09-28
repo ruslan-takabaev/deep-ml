@@ -1,0 +1,57 @@
+{
+  "generated_at": "2026-10-09T07:14:31.401Z",
+  "items": {
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-09-28T05:52:29.146Z",
+      "last_pushed_at": "2026-09-28T05:52:29.146Z",
+      "language": "python",
+      "lines": 2
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-09-28T07:05:25.513Z",
+      "last_pushed_at": "2026-09-28T07:05:25.513Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-09-28T07:07:01.906Z",
+      "last_pushed_at": "2026-09-28T07:07:01.906Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:134": {
+      "kind": "problem",
+      "id": "134",
+      "title": "Compute Multi-class Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/134",
+      "path": "problems/0134-compute-multi-class-cross-entropy-loss",
+      "first_solved_at": "2026-09-28T07:26:53.526Z",
+      "last_pushed_at": "2026-09-28T07:26:53.526Z",
+      "language": "python",
+      "lines": 1
+    }
+  }
+}
